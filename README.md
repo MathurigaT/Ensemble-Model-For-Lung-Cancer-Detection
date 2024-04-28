@@ -18,7 +18,7 @@ Following combinations were used to augment the images inorder to reduce the cla
 2. Vertical flip, Contrast adjustment and fill missing pixels with the nearest value.
 3. Rotation by 90-degree, Contrast adjustment and fill missing pixels with the nearest value.
 
-![](/Users/mathurigathavarajah/Downloads/DataPreProcessing-DataPreProcessing.jpg)
+![DataPreProcessing-DataPreProcessing](https://github.com/MathurigaT/Ensemble-Model-For-Lung-Cancer-Detection/assets/96435139/79e9793f-1b6d-47d5-ad89-2bcde945e4ea)
 
 ### Methodology
 
@@ -53,7 +53,7 @@ Support Vector Machine (SVM) classifier
 As per the experimented result, Soft voting based on combined rankings of accuracy (94%) and over-fitting shows the most suitable 
 ensemble model. Following illustrates the high level architecture of the model.
 
-![](/Users/mathurigathavarajah/Downloads/DataPreProcessing-HighLevelArchitecture.drawio (2).png)
+![DataPreProcessing-HighLevelArchitecture drawio (2)](https://github.com/MathurigaT/Ensemble-Model-For-Lung-Cancer-Detection/assets/96435139/c9b49124-e115-4a2a-8e1c-30bb917f5488)
 
 ### How to Run the IPython Notebook File
 
